@@ -50,13 +50,13 @@ Full-stack job portal with resume upload, job application tracking, and user aut
 
 ---
 
-### [📚 Educational Service Platform](https://github.com/ashugond18)
+### [📚 Educational Service Platform](https://ashugond18.github.io/Educational-Service-Based-Website/)
 Service-based platform for educational resources with role-based access (Admin/User), secure authentication, and responsive UI built with React.
 `React` `JavaScript` `HTML` `CSS`
 
 ---
 
-### [🌤️ Weather Dashboard Application](https://github.com/ashugond18)
+### [🌤️ Weather Dashboard Application](https://ashugond18.github.io/Weather-Dashboard/)
 Real-time weather dashboard displaying temperature, humidity, wind speed, and conditions with dynamic UI updates and optimized API calls.
 `JavaScript` `HTML` `CSS` `REST API`
 
