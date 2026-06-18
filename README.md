@@ -18,7 +18,7 @@
 
 I'm a passionate B.Tech Electronics & Communication Engineering student at **MMMUT, Gorakhpur** (2023–2027), with a strong foundation in Data Structures & Algorithms, full-stack web development, and problem-solving. I enjoy building clean, functional applications and am always eager to learn and contribute to real-world projects.
 
-- 🎓 CGPA: **7.29 / 10**
+- 🎓 CGPA: **7.49 / 10**
 - 💻 Solved **200+ DSA problems** on LeetCode | Contest Rating: **1520**
 - ⭐ **4-Star** on HackerRank
 - 📍 Gorakhpur, Uttar Pradesh, India
@@ -44,7 +44,7 @@ I'm a passionate B.Tech Electronics & Communication Engineering student at **MMM
 
 ## Projects
 
-### [💼 Job Portal with Resume Matching & Application Tracking](https://github.com/ashugond18)
+### [💼 Job Portal with Resume Matching & Application Tracking](https://ashugond18.github.io/TalentBridge-Job-Portal/)
 Full-stack job portal with resume upload, job application tracking, and user authentication. Built with responsive UI and integrated backend database functionalities.
 `React` `Node.js` `MySQL` `JavaScript`
 
@@ -80,7 +80,7 @@ Scalable e-commerce application with user authentication and secure data handlin
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.Tech — ECE | MMMUT, Gorakhpur | 2023–2027 | 7.29 CGPA |
+| B.Tech — ECE | MMMUT, Gorakhpur | 2023–2027 | 7.49 CGPA |
 | Class XII — UP Board | Maharana Pratap Inter College, Gorakhpur | 2021 | 85.6% |
 | Class X — UP Board | SRCM Inter College Jainpur, Gorakhpur | 2019 | 88.17% |
 
